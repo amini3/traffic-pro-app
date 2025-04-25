@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>766336888260-8a9f6pg3dp93d09ms4u319npf6bj2g46.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.766336888260-8a9f6pg3dp93d09ms4u319npf6bj2g46</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4vrG6Cf62XHgQ1NUxCRZN85TC8RjOPO4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>766336888260</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.reportingApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>dashboard-data-6670c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dashboard-data-6670c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:766336888260:ios:9136b3e1eeb2c3899b4891</string>
+	<key>DATABASE_URL</key>
+	<string>https://dashboard-data-6670c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
